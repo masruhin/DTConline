@@ -250,8 +250,8 @@ $viewLayout = $Identitas_app->ViewLayoutDepan($host);
         </div>
       </li>
     </ul>
-    <div class="dropdown">
-      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fa fa-users"></i>
+    <div class="dropdown btn-group ">
+      <button class="btn btn-secondary dropdown-toggle btn-sm" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="background-color: #1bd4aa; color: black; "> <i class="fa fa-users text-dark"></i>
         Action
       </button>
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">

@@ -146,7 +146,7 @@ if (isset($_SESSION['q'])) {
                 </ul>
                 <ul class="navbar-nav" style="padding-left: 20px;">
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" id="dropdown-2" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a href="#" class="nav-link dropdown-toggle active" id="dropdown-2" data-bs-toggle="dropdown" ar a-haspopup="true" aria-expanded="false">
                             <i class="fa fa-user-edit text-dark"></i>
                             Student</a>
                         <div class="dropdown-menu" aria-labelledby="dropdown-2">
